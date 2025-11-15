@@ -8,10 +8,11 @@ i! I’m Chiang Wen Xi, an aspiring AI engineer, data scientist, and full-stack 
 I’m currently pursuing a double degree in Accountancy and Data Science & AI at NTU, where I blend technical expertise with strategic thinking. 
 
 My interests and work revolve around:
-🧠 AI & Machine Learning — building intelligent systems and exploring model optimization
-📊 Data Analytics & Data Engineering — uncovering patterns that drive smarter decisions
-🏥 Health & Well-Being Tech — creating tools that support mental health, patient monitoring, and health data insights
-💻 Full-Stack Development & Automation — turning ideas into end-to-end working products
+- 🧠 AI & Machine Learning — building intelligent systems and exploring model optimization
+- 📊 Data Analytics & Data Engineering — uncovering patterns that drive smarter decisions
+- 🏥 Health & Well-Being Tech — creating tools that support mental health, patient monitoring, and health data insights
+- 💻 Full-Stack Development & Automation — turning ideas into end-to-end working products
+  
 Across my projects, I aim to combine data rigor, human-centered design, and scalable engineering — from mental-health monitoring platforms to predictive modelling pipelines and intelligent analytics systems.
 
 Always excited to connect, collaborate, and create! 🚀
