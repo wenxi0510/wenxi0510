@@ -37,7 +37,7 @@ Developer Tools:
 ## 👩‍💻 Projects
 
 **AI/Machine Learning**
-- [wenxi0510/Network Insights](https://github.com/wenxi0510/Data-Mining-Technical-Review-Report): Developed a modular Python-Streamlit-PowerBI system that unifies data extraction, analytics, visualisation, news scrapping, and automated report generation in a single workflow.
+- [wenxi0510/Network Insights](https://github.com/sinpei1902/Network-Insights): Developed a modular Python-Streamlit-PowerBI system that unifies data extraction, analytics, visualisation, news scrapping, and automated report generation in a single workflow.
 - [wenxi0510/AI-Mental-Health-Chatbot](https://github.com/wenxi0510/EchoMind): Full-Stack Web Application for status tracking of discharged mental health patients by mental health practitioners!
 - [wenxi0510/AI-Powered News Fact Checker](https://github.com/wenxi0510/Factify): A multi-modal fact-verification platform combining text and image evidence to classify claims as supported, refuted, or lacking evidence.”
 - [wenxi0519/MiniGPT](https://github.com/wenxi0510/Creating-Mini-GPT): Built a toy character-level GPT using NanoGPT and taught it algebra & arithmetic via DPO reinforcement learning.
